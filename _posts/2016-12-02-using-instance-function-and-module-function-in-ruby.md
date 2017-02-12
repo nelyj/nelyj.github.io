@@ -2,7 +2,7 @@
 layout: post
 title: "Using instance function and module function in Ruby"
 date:   2016-12-02 00:00:00 -0300
-categories: ruby, rails
+categories: ruby
 ---
 ### Instance function
 Module function can be mixed in different classes and these are invoked as instance method

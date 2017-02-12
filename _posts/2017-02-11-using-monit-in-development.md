@@ -2,7 +2,7 @@
 layout: post
 title: "Using monit in development (OS X)"
 date:   2017-02-11 19:22:30 -0300
-categories: development, tools
+categories: tools
 ---
 I've been working for many time with Rails apps. I've spent hours working with [Monolithics][monolithic-url] and micro services apps. (Yep in the last time I've worked with [RabbitMQ][rabbitmq-url])
 

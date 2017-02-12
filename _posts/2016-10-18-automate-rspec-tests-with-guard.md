@@ -2,7 +2,7 @@
 layout: post
 title: "Automate RSpec tests with Guard"
 date:   2016-10-18 00:00:00 -0300
-categories: ruby, testing
+categories: testing
 ---
 ![image-guard](http://i1382.photobucket.com/albums/ah245/nelsonpatojimenez/Guard-setting_zpsyfsqvu2p.gif)
 
