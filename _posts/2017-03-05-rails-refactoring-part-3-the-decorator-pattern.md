@@ -1,7 +1,7 @@
 ---
 layout: external
-title: "The decorator pattern"
-date:   2017-03-05 20:45:30 -0300
-external_url: http://www.thegreatcodeadventure.com/rails-refactoring-part-iii-the-decorator-pattern/
+title: "Integrate RuboCop in your workflow"
+date:   2017-03-07 23:19:30 -0300
+external_url: https://buildtoship.com/integrate-rubocop-in-your-workflow/
 categories: tips
 ---
