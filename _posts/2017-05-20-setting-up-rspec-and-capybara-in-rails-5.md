@@ -1,7 +1,7 @@
 ---
 layout: external
-title: "Sandy Metz Rules for developers"
-date:   2017-04-29 20:52:30 -0300
-external_url: https://robots.thoughtbot.com/sandi-metz-rules-for-developers
-categories: tips
+title: "Setting up Rspec and Capybara in Rails 5 for testing"
+date:   2017-05-20 20:15:30 -0300
+external_url: https://www.devmynd.com/blog/setting-up-rspec-and-capybara-in-rails-5-for-testing/
+categories: rspec
 ---
