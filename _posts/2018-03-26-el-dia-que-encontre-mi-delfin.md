@@ -4,9 +4,11 @@ title: "El día que encontré mi delfín"
 date:   2018-03-26 02:40:00 -0300
 categories: life
 ---
+
 Hace mucho tiempo no me siento bien, siempre fuí inseguro, no entiendo porque las personas confían en mi y me creen. Siempre me lo he preguntado, ni siquiera entiendo porque me quieren. Han pasado varios años y siempre pensé que me conocía lo suficiente, con algunas personas he hablado esto, me siento distinto. Por lo menos hace 6 años atrás algo me decía que no tenía que seguir, sigo conversando con él. Le digo que me de tiempo, hay muchas personas que confían en mi y necesito apoyarlos. Siempre niego tener sentimientos, no quiero dañar a nadie. Amo a mi hija por sobre todo, le doy gracias a la Camila por cuidarla. Observo mucho, me quedo callado, pienso y sigo observando, ella me da alegría es inteligente. Es lo más inteligente que he conocido, gracias por mostrarme la escencia, no lo merecía y aún así me lo mostraste (Siempre estaré contigo, mi alma siempre estará contigo, conversa cuando me necesites, hablemos, nunca te dejaré).
 
 Mis consejos para ti:
+
 - Siempre confía en ti y en tu familia, ellos siempre te ayudarán. Te aman, darán la vida por ti si es necesario.
 - Ahorra, la vida es corta y siempre pasan cosas. Nunca gaste lo que no tienes y ahorra para cuando hayan momentos malos. 
 - Se precavida y piensa en lo que quieres ser, ten claro como lo harás. Si es necesario anótalo.
