@@ -1,15 +1,19 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: About me
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<p class="about">
+	<img src="{{ site.profile }}" class="profile" />
+</p>
+<p>
+	I'm problem solver, programmer and passionate leader with many experience building solutions to startups from Chile, Argentina, México, Miami, New York and Spain
+</p>
+<p>
+	I'm focused to build profitable and highly scalable products that impact millions of people.
+</p>
+<p>
+	Current Stack: <b>Ruby (Rails, Sinatra), RSpec, Elixir (Phoenix), Vue.js, Git, Deployment (Capistrano, Heroku), Redis, Elastic Search </b>
+</p>
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+{% include wakatime.html %}

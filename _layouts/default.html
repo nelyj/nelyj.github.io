@@ -3,13 +3,17 @@
   {% include head.html %}
   <body>
     <header class="site-header">
-      <img src="/images/logo.png" width="60"/>
+      <img src="{{ site.logo }}" width="50"/>
       <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-      <img src="/images/logo.png" width="60"/>
+      <img src="{{ site.logo }}" width="50"/>
+      <nav>
+        <a href="/">Blog</a>
+        <a href="/{{ site.about }}">About</a>
+        <a href="{{ site.linkedin }}" target="_blank">Linkedin</a>
+        <a href="https://github.com/{{ site.github_username }}" target="_blank">Github</a>
+        <a href="mailto:{{ site.email }}">Contact Me</a>
+      </nav>
     </header>
-    <div class="page-content">
-      {% include wakatime.html %}
-    </div>
     <div class="page-content">
       {{ content }}
     </div>

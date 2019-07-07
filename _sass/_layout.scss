@@ -5,7 +5,27 @@
     border-bottom: 1px solid $grey-color-light;
     text-align: center;
     padding: 1rem 0;
+	nav {
+		a {
+			color: $text-color;
+			text-decoration: underline;
+			font-size: 0.8em;
+			text-transform: uppercase;
+			padding: 0.25em;
+			font-weight: 700;
+		}
+	}
 }
+
+p.about {
+	text-align: center;
+}
+
+img.profile {
+	width: 100px;
+	border-radius: 50%;
+}
+
 
 .site-title {
         font-size: 1.5rem;
@@ -75,15 +95,18 @@
     font-size: 2rem;
     letter-spacing: -1px;
     line-height: 1;
+		font-weight: 700;
 }
 
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+		font-weight: 700;
 }
 
 .post-content {
     margin-bottom: $spacing-unit;
+		font-weight: 300;
 
     h1, h2, h3,
     h4, h5, h6 {

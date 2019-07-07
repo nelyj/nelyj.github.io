@@ -4,27 +4,27 @@
 @charset "utf-8";
 
 
-// Our variables
-$base-font-family: "Cutive Mono", "Courier New", "Helvetica Neue", Helvetica, FangSong, STFangsong, sans-serif;
-$code-font-family: "Courier New", Consolas, monopace, FangSong, STFangsong;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  0.875rem;
-$base-line-height: 1.5;
+	// Our variables
+	$base-font-family: "Roboto", sans-serif;
+	$code-font-family: "Courier New", Consolas, monopace, FangSong, STFangsong;
+	$base-font-size:   16px;
+	$base-font-weight: 300;
+	$small-font-size:  0.875rem;
+	$base-line-height: 1.5;
 
-$spacing-unit:     2rem;
+	$spacing-unit:     2rem;
 
-$text-color:       #111;
-$background-color: #fff;
-$brand-color:      #2a7ae2;
+	$text-color:       #332E30;
+	$background-color: #fff;
+	$brand-color:      #2a7ae2;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+	$grey-color:       #828282;
+	$grey-color-light: lighten($grey-color, 40%);
+	$grey-color-dark:  darken($grey-color, 25%);
 
-// Width of the content area
-$on-palm:          600px;
-$on-laptop:        800px;
+	// Width of the content area
+	$on-palm:          600px;
+	$on-laptop:        800px;
 
 
 
@@ -45,7 +45,7 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-		url(https://fonts.googleapis.com/css?family=Cutive+Mono),
+		url(https://fonts.googleapis.com/css?family=Roboto:300,500&display=swap&subset=latin-ext),
         "base",
         "layout",
         "syntax-highlighting"
