@@ -4,7 +4,6 @@ title: About me
 ---
 
 <p class="about">
-	<img src="{{ site.profile }}" class="profile" />
 </p>
 <p>
 	I'm problem solver, programmer and passionate leader with many experience building solutions to startups from Chile, Argentina, México, Miami, New York and Spain
